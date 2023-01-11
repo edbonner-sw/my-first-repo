@@ -1,0 +1,7 @@
+#locl env files
+.env*
+
+
+#misc
+.vscode
+/folder_name
